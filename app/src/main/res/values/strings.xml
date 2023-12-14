@@ -3,4 +3,11 @@
     <string name="email_address">Email address</string>
     <string name="password">Password</string>
     <string name="login">LOGIN</string>
+    <string name="btn7">Btn7</string>
+    <string name="btn6">Btn6</string>
+    <string name="btn5">Btn5</string>
+    <string name="btn4">Btn4</string>
+    <string name="btn3">Btn3</string>
+    <string name="btn2">Btn2</string>
+    <string name="btn1">Btn1</string>
 </resources>

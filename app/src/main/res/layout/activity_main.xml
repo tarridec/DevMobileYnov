@@ -16,7 +16,7 @@
         android:layout_alignParentLeft="true"
         android:layout_marginLeft="5dp"
         android:layout_marginTop="5dp"
-        android:text="Btn1" />
+        android:text="@string/btn1" />
 
     <Button
         android:id="@+id/btn2"
@@ -26,7 +26,7 @@
         android:layout_alignParentRight="true"
         android:layout_centerVertical="true"
         android:layout_marginRight="5dp"
-        android:text="Btn2" />
+        android:text="@string/btn2" />
 
     <Button
         android:id="@+id/btn3"
@@ -37,7 +37,7 @@
         android:layout_alignParentLeft="true"
         android:layout_centerVertical="true"
         android:layout_marginLeft="5dp"
-        android:text="Btn3" />
+        android:text="@string/btn3" />
 
     <Button
         android:id="@+id/btn4"
@@ -48,7 +48,7 @@
         android:layout_marginBottom="5dp"
         android:layout_marginLeft="5dp"
         android:layout_marginRight="5dp"
-        android:text="Btn4" />
+        android:text="@string/btn4" />
 
     <Button
         android:id="@+id/btn5"
@@ -58,7 +58,7 @@
         android:layout_gravity="center"
         android:layout_centerVertical="true"
         android:layout_centerHorizontal="true"
-        android:text="Btn5" />
+        android:text="@string/btn5" />
 
     <Button
         android:id="@+id/btn6"
@@ -69,7 +69,7 @@
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
         android:layout_marginBottom="60dp"
-        android:text="Btn6" />
+        android:text="@string/btn6" />
 
     <Button
         android:id="@+id/btn7"
@@ -81,5 +81,5 @@
         android:layout_marginLeft="10dp"
         android:layout_marginRight="5dp"
         android:layout_marginTop="5dp"
-        android:text="Btn7" />
+        android:text="@string/btn7" />
 </RelativeLayout>
